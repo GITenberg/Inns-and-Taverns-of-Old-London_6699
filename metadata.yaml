@@ -1,0 +1,26 @@
+_repo: Inns-and-Taverns-of-Old-London_6699
+creator:
+  author:
+    agent_name: Shelley, Henry C. (Henry Charles)
+    aliases:
+    - Shelley, H. C. (Henry Charles)
+    - Shelley, Henry Charles
+    gutenberg_agent_id: '2162'
+    url: http://www.gutenberg.org/2009/agents/2162
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bars (Drinking establishments) -- England -- London -- History'
+- !lcc 'DA'
+- !lcsh 'Hotels -- England -- London -- History'
+- !lcsh 'London (England) -- History'
+title: Inns and Taverns of Old London
+url: http://www.gutenberg.org/ebooks/6699
